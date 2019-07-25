@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='budgetwise',
-      version='0.1',
+      version='0.2',
       description='Easily calculate budgets for your company',
       url='https://github.com/kaarelr/budgetwise',
       author='Cloudberry',
