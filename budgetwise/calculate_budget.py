@@ -86,7 +86,7 @@ def calculate_budget(categories):
         
         expenses_count = len(expenses)
         
-        print(expenses_count)
+        # print(expenses_count)
         
         if(expenses_count < expenses_amount):
             for i in range(expenses_amount - expenses_count):
